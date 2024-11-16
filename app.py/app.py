@@ -1,3 +1,4 @@
+# Smile Detctor and automatically Snapshot Clicker - Voice - Controlled 
 from flask import Flask, render_template, request, jsonify  # Importing Flask and its utilities
 import cv2  # OpenCV for image processing
 import threading  # To handle background tasks (e.g., camera operation)
