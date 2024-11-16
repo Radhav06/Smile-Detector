@@ -1,3 +1,4 @@
+# Smile Detector and Snapshot clicker automaticaaly voice-controlled 
 import cv2  # OpenCV for webcam and image processing
 import tkinter as tk  # Tkinter for GUI
 from tkinter import Label  # Widgets for GUI
